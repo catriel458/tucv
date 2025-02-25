@@ -10,7 +10,7 @@ Este proyecto es una aplicación web desarrollada en React que permite generar u
 
 🚀 Instalación y Uso
 
-git clone https://github.com/tuusuario/generador-cv.git
+git clone https://github.com/catriel458/tucv.git
 cd generador-cv
 
 npm install
