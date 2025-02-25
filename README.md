@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 Generador de CV en PDF 📝🚀
 
 Este proyecto es una aplicación web desarrollada en React que permite generar un currículum vitae (CV) en formato PDF con un diseño elegante y profesional.
